@@ -31,3 +31,11 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+
+### SQL Server files
+.mdf
+.ldf
+
+data/
